@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +6,6 @@
     <title>Học Python cùng Dương IT</title>
 </head>
 <body>
-    </h1>
     Python là gì? Học Python ở đâu và phải bắt đầu từ đâu? <br/> <br/>
 
     Python là ngôn ngữ lập trình hướng đối tượng, cấp cao, mạnh mẽ, được tạo ra bởi Guido van Rossum. 
